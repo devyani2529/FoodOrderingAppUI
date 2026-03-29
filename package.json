@@ -1,9 +1,27 @@
 {
   "devDependencies": {
-    "parcel": "^2.15.4"
+    "parcel": "^2.16.4"
   },
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
-  }
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "name": "c",
+  "version": "1.0.0",
+  "scripts": {
+  "start": "parcel index.html",
+  "build": "parcel build index.html",
+   "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devyani2529/FoodOrderingAppUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devyani2529/FoodOrderingAppUI/issues"
+  },
+  "homepage": "https://github.com/devyani2529/FoodOrderingAppUI#readme",
+  "description": ""
 }
